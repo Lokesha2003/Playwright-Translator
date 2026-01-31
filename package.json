@@ -1,0 +1,22 @@
+{
+  "name": "playwright-translator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "positive.spec.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lokesha2003/Playwright-Translator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lokesha2003/Playwright-Translator/issues"
+  },
+  "homepage": "https://github.com/Lokesha2003/Playwright-Translator#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.1.0"
+  }
+}
